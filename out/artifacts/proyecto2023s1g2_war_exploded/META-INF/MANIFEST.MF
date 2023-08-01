@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Avernoo
+Build-Jdk: Amazon Corretto version 17.0.7
+Implementation-Title: proyecto2023s1g2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Main-Class: ${start-class}
+
